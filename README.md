@@ -58,7 +58,7 @@ Em que:
 ingress:
   enabled: true
   className: nginx
-  host: ocs.csic.ufpa.br
+  host: example.com
   ocs:
     path: /
     pathType: Prefix
